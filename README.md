@@ -9,6 +9,9 @@ Presentations I've given over the years.
 
 - [Be Kind, Please Rewind: Adventures in creating a macOS Record/Replay Debugger](./REcon2023/BeKindRewind.pdf)
 
+### Objective-By the Sea v6.0
+
+- [Santa's Got a Brand New Bag (video)](https://www.youtube.com/watch?v=9hjUmT031tc&t=14660s)
 
 ## 2021
 
