@@ -2,6 +2,13 @@
 
 Presentations I've given over the years.
 
+## 2024
+
+### MacSysAdmins Sweden
+
+#### Santa Past, Present, And Future: A Chrismas Carol
+
+ - [Slides](./MSA2024/NPS-MSA-2024.pdf)
 
 ## 2023
 
